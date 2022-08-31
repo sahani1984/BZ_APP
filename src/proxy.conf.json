@@ -1,0 +1,12 @@
+{
+    "/api/*": {
+        "target": "'https://behtarzindagi.in",
+        "secure": false,       
+        "logLevel": "debug"
+    },
+     "/bz_FarmerApp/*": {
+       "target": "'https://behtarzindagi.in",
+       "secure": false,
+       "logLevel": "debug"
+     }
+}
